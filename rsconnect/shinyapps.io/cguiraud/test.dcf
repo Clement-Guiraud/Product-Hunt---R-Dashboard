@@ -1,0 +1,14 @@
+name: test
+title: test
+username:
+account: cguiraud
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8320154
+bundleId: 6992683
+url: https://cguiraud.shinyapps.io/test/
+when: 1679496775.50384
+lastSyncTime: 1679496775.50398
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData

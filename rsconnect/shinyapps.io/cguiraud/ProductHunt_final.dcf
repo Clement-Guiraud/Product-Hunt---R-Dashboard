@@ -1,0 +1,13 @@
+name: ProductHunt_final
+title: ProductHunt_final
+username:
+account: cguiraud
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8641906
+bundleId: 6992722
+url: https://cguiraud.shinyapps.io/ProductHunt_final/
+when: 1679497202.60815
+lastSyncTime: 1679497202.60819
+asMultiple: FALSE
+asStatic: FALSE
